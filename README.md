@@ -8,4 +8,7 @@
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></p>
-<img src="https://img.shields.io/badge/%20-omeryentur49%40gmail.com-red" width="400" height="30"/>
+ 
+ 
+ 
+<img src="https://img.shields.io/badge/%20-omeryentur49%40gmail.com-red" width="300" height="30"/>
