@@ -1,3 +1,3 @@
-### Hi 👋 I'm Ömer Yentür
+###  -----------  Ömer Yentür -------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=omeryentur&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=omeryentur&&show_icons=true&title_color=ff0000&icon_color=00ff00&text_color=ffff00&bg_color=456275">
